@@ -1,0 +1,28 @@
+1. Design Stack(using Array,queue,LL)
+2. Reverse Stack(Recursively)
+3. Min Stack
+4. Trapping Rain Water
+5. Remove All adjacent Duplicate in String(1,2)
+6. Valid Parenthesis
+7. Minimum Remove to Make Valid Parantheses
+8. Minimum Add to make Parantheses Valid 
+9. Simplify Path
+10. Score of Parentheses
+11. Next Greater Element 1
+12. Next Greater Element 2
+13. Stock Span
+14. Daily Temperatures
+15. Largest Area in Histogram
+16. Maximal Rectangle
+17. Maximal Square
+18. Maximum score of Good Subarray(Stack,Two Pointers)
+19. Celebrity Problem(stack,Two Pointers)
+20. Asteroid Collision
+21. Car Fleet
+22. Remove Duplicate Letters
+23. 132 Pattern
+24. Remove K digits
+25. Convert Infix to postfix
+26. Evaluate postfix Notation
+27. Basic Calculator1
+28. Basic Caluculator2
